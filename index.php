@@ -8,5 +8,6 @@
 <body>
   <h1>membuat index</h1>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit repudiandae minima maxime magnam culpa nulla numquam sequi obcaecati. Explicabo eaque odit perspiciatis, quaerat rerum dolor aliquid quam debitis assumenda veniam.</p>
+  <p>eeha</p>
 </body>
 </html>
